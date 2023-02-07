@@ -1,0 +1,17 @@
+Difference between OOP & POP
+
+OOP( object oriented programing)
+
+It follows bottom up approach
+Program is divided into objects and their interaction
+inheritance is supported
+Encapsulation is used to hide data
+Example: C++,java
+
+POP(procedural oriented programing)
+
+It follows top down approach
+Program is divided into functions and they interacts
+Inheritance is not supported
+NO data hiding present
+Examples: c,pascal

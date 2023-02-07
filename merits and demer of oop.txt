@@ -1,0 +1,17 @@
+Advantages and Disadvantages of OOPs
+
+Advantages:-
+
+We can reuse the code multiple times using class
+Inherit the class of subclass for data redundancy
+It is to maintain and modify
+It maintains the security of data
+Low-cost development
+
+Disadvantages:-
+
+Size is larger than other programs
+It required a lot of effort to create
+It is slower than the other programs
+It is not suitable for some sorts of problems
+It takes time to get used to it

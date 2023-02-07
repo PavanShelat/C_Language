@@ -1,0 +1,8 @@
+Similarities between C and C++ :
+
+Both the languages have a similar syntax.
+Code structure of both are same.
+The compilation of both is similar.
+They share the same basic syntax.
+Basic memory model of both is very close to the hardware.
+Same notions of stack,heap,file-scope and static variables are present in both the languages.
